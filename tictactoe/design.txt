@@ -1,0 +1,17 @@
+player  (name , symbol ) -done 
+
+board  (n , board,  place coin  , check_for_win, display_board)- done 
+
+
+game controller (initialize board ,  play_game )
+
+
+main 
+
+
+
+
+
+
+
+

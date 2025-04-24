@@ -1,0 +1,14 @@
+
+
+
+board (list of snakes , list of ladders , set_snakes , get_snakes , set_ladders  , get_ladders  )- done 
+
+dice (roll function , value of dice at max )- done 
+
+player (symbol ,  name ,  value )- done 
+
+game controller  (board object , dice object , initialize game , start game )
+
+main file( interface )
+
+

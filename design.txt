@@ -1,0 +1,32 @@
+https://workat.tech/machine-coding/article/how-to-ace-machine-coding-round-hi8lnpp8tlmo
+
+
+
+Design Snake & Ladder - done 
+
+Design Splitwise
+
+Design Trello
+
+Design Tic-Tac-Toe  - done 
+
+Design a Parking Lot - done 
+
+Design Chess Validator
+
+Design a Library Management System
+
+Design 2048 Game
+
+Design an In-Memory Key-Value Store -
+
+Design a Distributed Queue
+
+Design a rate limiter 
+
+Design a flipmed 
+
+Design a bowling alley 
+
+
+

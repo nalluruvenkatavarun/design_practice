@@ -1,0 +1,21 @@
+
+
+
+
+
+vechicle -done 
+
+entry_gate 
+
+exit_gate 
+
+parking_space -done
+
+parking_agent- done 
+
+ticket -done 
+
+parking_system -done 
+
+reservation -done 
+
