@@ -4,7 +4,7 @@ https://workat.tech/machine-coding/article/how-to-ace-machine-coding-round-hi8ln
 
 Design Snake & Ladder - done 
 
-Design Splitwise
+Design Splitwise -
 
 Design Trello
 
@@ -12,21 +12,76 @@ Design Tic-Tac-Toe  - done
 
 Design a Parking Lot - done 
 
-Design Chess Validator
+Design Chess Validator 
 
 Design a Library Management System
 
-Design 2048 Game
+Design 2048 Game - 
 
 Design an In-Memory Key-Value Store -
 
-Design a Distributed Queue
+Design a Distributed Queue - 
 
-Design a rate limiter 
+Design a rate limiter -
+
+Design elevator system - 
 
 Design a flipmed 
 
 Design a bowling alley 
+
+Design car rental system -
+
+Design Book my show
+
+Design ATM 
+
+Design Vending machine
+
+Design Cricbuzz
+
+Design File & Directory system -
+
+Design inventory management 
+
+Design apply coupoun on shopping carts 
+
+Design payment gatweay 
+
+Design Truecaller 
+
+Design amazon locker service 
+
+Design Distributed id generation 
+
+Design logger
+
+Design Cab booking service
+
+Design chess game 
+
+Design in memory db with indexing -
+
+Design online book reader system 
+
+Design hotel booking system 
+
+Design a logistics system 
+
+Design Configuration system 
+
+Design Maps Navigator Client for different transportation types (OOD)
+
+Design a Json Parser from scratch
+
+Design Tik tok 
+
+Design pintrest 
+
+Design swiggy 
+
+Design ecommerce review system 
+
 
 
 

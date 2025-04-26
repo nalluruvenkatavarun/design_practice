@@ -1,0 +1,25 @@
+
+
+
+user 
+
+location 
+
+shop 
+
+shop_inventory 
+
+registor 
+
+registration
+
+bill payment 
+
+vechicle 
+
+registartion 
+
+payment 
+
+rental_system  (location,shops)
+

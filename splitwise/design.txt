@@ -1,0 +1,27 @@
+
+
+
+
+
+
+splitwise design :
+
+user (user details , balance sheet)
+
+user_controller (crud on users )
+
+splitwise(user_controller ,group_controller )
+
+group (group_details , liost of cdetails , transaction_controller)
+
+group_controller (crud on groups )
+
+transaction_controller(  crud on transcations , balance_sheet_controller )
+
+balance_sheet_controller (updating balance sheet)
+
+
+
+
+
+

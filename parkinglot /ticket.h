@@ -6,9 +6,7 @@
 using namespace std ;
 
 class ticket{
-
-
-
+    
 public:
 
 vechicle* v1;

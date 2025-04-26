@@ -6,8 +6,6 @@ class parking_system{
 
     vector<parkingspace*>parkingspaces;
 
-
-
     parking_system()
     {
        
@@ -15,13 +13,9 @@ class parking_system{
         
     }
 
-
-
     parkingspace* get_space(int t)
     {
         return new parkingspace(t);
     } 
-
-
 
 };

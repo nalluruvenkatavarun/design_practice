@@ -1,0 +1,9 @@
+
+
+pure composite design pattern 
+
+filesystem - base class 
+
+file - derived class
+
+directory - derived class (contains list of files / directorys )
