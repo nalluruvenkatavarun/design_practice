@@ -1,0 +1,20 @@
+
+
+
+
+booking_system (locationvshotels )
+
+user 
+
+location 
+
+hotel 
+
+reservation 
+
+book 
+
+bill payment 
+
+
+

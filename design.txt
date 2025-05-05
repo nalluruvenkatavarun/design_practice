@@ -24,7 +24,7 @@ Design a Distributed Queue -
 
 Design a rate limiter -
 
-Design elevator system - 
+Design elevator system 
 
 Design a flipmed 
 
@@ -32,11 +32,11 @@ Design a bowling alley
 
 Design car rental system -
 
-Design Book my show
+Design Book my show -
 
-Design ATM 
+Design ATM - 
 
-Design Vending machine
+Design Vending machine -
 
 Design Cricbuzz
 
@@ -44,7 +44,7 @@ Design File & Directory system -
 
 Design inventory management 
 
-Design apply coupoun on shopping carts 
+Design apply coupoun on shopping carts -
 
 Design payment gatweay 
 
@@ -64,7 +64,7 @@ Design in memory db with indexing -
 
 Design online book reader system 
 
-Design hotel booking system 
+Design hotel booking system -
 
 Design a logistics system 
 

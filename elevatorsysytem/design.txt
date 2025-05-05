@@ -1,0 +1,35 @@
+building 
+
+
+floor 
+
+
+external_buttons 
+
+
+elevator_system (list of elevator controller )
+
+
+elevator controller (particular elevator , q1 , q2 )
+
+
+elevator (internal buttons , current floor )
+
+external dispatcher (list of elevator_controller)
+
+external buttons (external dispatcher)
+
+internal dispatcher (list of elevator_controller)
+
+internalbuttons(internal dispacher )
+
+
+
+
+
+
+
+
+
+
+
