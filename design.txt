@@ -24,7 +24,7 @@ Design a Distributed Queue -
 
 Design a rate limiter -
 
-Design elevator system 
+Design elevator system -
 
 Design a flipmed 
 

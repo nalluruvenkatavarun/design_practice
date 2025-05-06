@@ -1,0 +1,29 @@
+
+
+user management 
+
+book management 
+
+inventory 
+
+
+
+
+
+deisgn :
+
+
+user 
+
+inventory (list of books, select book fucntion )
+
+
+librarymanagementsystem (list of users , inventory , list of reservations, select_book_function , new_reservation ,return_book , make_payment )
+
+reservation (user , book , start_date, end_date )
+
+user comes => select book => 
+
+
+
+
