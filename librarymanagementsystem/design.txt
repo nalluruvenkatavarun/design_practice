@@ -6,12 +6,7 @@ book management
 
 inventory 
 
-
-
-
-
 deisgn :
-
 
 user 
 

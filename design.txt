@@ -14,7 +14,7 @@ Design a Parking Lot - done
 
 Design Chess Validator 
 
-Design a Library Management System
+Design a Library Management System -
 
 Design 2048 Game - 
 

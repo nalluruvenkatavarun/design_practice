@@ -1,0 +1,10 @@
+
+
+
+
+
+user
+
+lane 
+
+bowlingalleycontroller (list of users , list of lanes ,score calculator ,show_scores)
