@@ -2,9 +2,14 @@
 
 
 
+user (uid , name )
 
-user
+lane (users , score_card)
 
-lane 
+lane controller (controls lane to crud on users )
 
-bowlingalleycontroller (list of users , list of lanes ,score calculator ,show_scores)
+bowlingalleycontroller (list of lanes , pick_lane , set_game , play_game , bowl , also initialize time too )
+
+
+
+
