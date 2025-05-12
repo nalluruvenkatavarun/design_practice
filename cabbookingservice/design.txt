@@ -1,0 +1,42 @@
+
+
+user 
+
+location 
+
+
+raider 
+
+bookingservice (locationvsactiveraiders , cars_selection , bookaride ,payment  )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+driver 
+
+driver_interface
+
+
+user_controller (loicationvslistofactivedrivers , find_bike , )
+
+
+cabbookingservice (user_controller, book_cab , )
+
+
+user_interface (user, display details , display rider details  )
+
+
+user(details of user)
+
+
+observer observant design patettern 

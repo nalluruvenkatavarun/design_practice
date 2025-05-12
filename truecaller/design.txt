@@ -1,0 +1,12 @@
+
+
+
+
+user (number , details, spam_count)
+
+true_caller_db(number: user, number: list_of_users_marked_spam)
+
+true_caller (true_caller_db, get_user , mark_spam (user1, user2)) 
+
+
+

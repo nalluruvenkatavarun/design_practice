@@ -28,7 +28,7 @@ Design elevator system -
 
 Design a flipmed 
 
-Design a bowling alley 
+Design a bowling alley -
 
 Design car rental system -
 
@@ -48,7 +48,7 @@ Design apply coupoun on shopping carts -
 
 Design payment gatweay 
 
-Design Truecaller 
+Design Truecaller -
 
 Design amazon locker service 
 
@@ -56,7 +56,7 @@ Design Distributed id generation
 
 Design logger
 
-Design Cab booking service
+Design Cab booking service -
 
 Design chess game 
 
@@ -78,7 +78,7 @@ Design Tik tok
 
 Design pintrest 
 
-Design swiggy 
+Design swiggy  
 
 Design ecommerce review system 
 
